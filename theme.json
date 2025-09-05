@@ -23,7 +23,6 @@
         "BG_MOD_STRONG": ["#0b0c0f"],
         "BORDER_STRONG": ["#0b0c0f"],
         "BORDER_SUBTLE": ["#0b0c0f"],
-        "BORDER_FAINT": ["#364135"],
         "BG_BRAND": ["#9DCC60"],
         "BUTTON_OUTLINE_DANGER_BORDER": ["#d14351"],
         "TEXT_DANGER": ["#d14351"]
