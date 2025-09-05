@@ -11,6 +11,7 @@
     "semanticColors": {
         "BG_SURFACE_RAISED": ["#21242c"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#21242c"],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#21242c"],
         "BACKGROUND_PRIMARY": ["#1C1F25"],
         "PANEL_BG": ["#16191d"],
         "CARD_PRIMARY_BG": ["#16191d"],
@@ -41,7 +42,6 @@
         "GREEN_360": "#88B057",
         "GREEN_430": "#88B057",
         "GREEN_460": "#74944F",
-        "PLUM_11": "#21242c",
         "PLUM_13": "#0b0c0f",
         "PLUM_16": "#74944F",
         "PLUM_22": "#0b0c0f",
