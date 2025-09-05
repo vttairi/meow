@@ -11,7 +11,6 @@
     "semanticColors": {
         "BG_SURFACE_RAISED": ["#21242c"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#21242c"],
-        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#424957"],
         "BACKGROUND_PRIMARY": ["#1C1F25"],
         "PANEL_BG": ["#16191d"],
         "CARD_PRIMARY_BG": ["#16191d"],
