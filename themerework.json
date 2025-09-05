@@ -28,6 +28,7 @@
         "BORDER_SUBTLE": ["#0b0c0f"],
         "BACKGROUND_ACCENT": ["#2F372D"],
         "MENTIONLINECOLOR": ["#2F372D"],
+        "ANDROID_RIPPLE": ["#2F372D"],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": ["#63734A"],
         "THREAD_CHANNEL_SPINE": ["#63734A"],
         "TEXT_LINK": ["#97AE67"],
