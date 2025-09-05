@@ -9,7 +9,7 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#23272e"]
+    "BACKGROUND_PRIMARY": ["#23272e"],
     "PANEL_BG": ["#21252c"],
     "BACKGROUND_SECONDARY_ALT": ["#21252c"],
     "CARD_PRIMARY_BG": ["#21252c"],
