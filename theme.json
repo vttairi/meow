@@ -11,8 +11,8 @@
     "semanticColors": {
         "INTERACTIVE_MUTED": ["#373d49"],
         "BG_SURFACE_RAISED": ["#21242c"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#2c313a"],
-        "BG_MOD_FAINT": ["#2c313a"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#424957"],
+        "BG_MOD_FAINT": ["#424957"],
         "BORDER_STRONG": ["#2c313a"],
         "BG_MOD_STRONG": ["#2c313a"],
         "BACKGROUND_PRIMARY": ["#1C1F25"],
