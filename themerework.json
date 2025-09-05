@@ -9,7 +9,7 @@
     ],
     "spec": 2,
     "semanticColors": {
-      "BACKGROUND_MODIFIER_ACTIVE": ["#2c313a"]
+      "BACKGROUND_MODIFIER_ACTIVE": ["#2c313a"],
       "BG_SURFACE_RAISED": ["#2c313a"],
       "BG_SURFACE_OVERLAY_TMP": ["#2c313a"],
       "INTERACTIVE_MUTED": ["#2c313a"],
