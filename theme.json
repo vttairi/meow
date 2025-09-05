@@ -23,8 +23,6 @@
 "DIVIDER_SUBTLE": ["#0a0d0f"],
 "EXPRESSION_PICKER": ["#0a0d0f"],
 "INPUT_BACKGROUND": ["#000000"],
-"INTERACTIVE_ACTIVE": ["#1f262d"],
-"INTERACTIVE_MUTED": ["#0a0d0f"],
     "ANDROID_RIPPLE": ["#2F372D"]
   },
   "rawColors": {
