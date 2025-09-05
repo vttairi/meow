@@ -8,9 +8,6 @@
         }
     ],
     "spec": 2,
-+  "plus": {
-+    "version": 0
-+  },
     "semanticColors": {
         "BACKGROUND_MODIFIER_ACTIVE": ["#2c313a"],
         "BG_SURFACE_RAISED": ["#1c1f25"],
@@ -55,4 +52,7 @@
         "RED_430": "#b52d3f",
         "RED_460": "#8D2837"
     }
++  "plus": {
++    "version": 0
++  }
 }
