@@ -17,7 +17,7 @@
         "CARD_SECONDARY_BG": ["#16191d"],
         "BACKGROUND_SECONDARY": ["#16191d"],
         "BG_SURFACE_OVERLAY_TMP": ["#16191d"],
-        "INTERACTIVE_MUTED": ["#0b0c0f"],
+        "BG_MOD_FAINT": ["#16191d"],
         "BG_BASE_SECONDARY": ["#0b0c0f"],
         "BACKGROUND_SECONDARY_ALT": ["#0b0c0f"],
         "BACKGROUND_MODIFIER_ACCENT": ["#0b0c0f"],
