@@ -1,2 +1,12 @@
 # meow
 a dumbass trying to make a theme for revenge
+
+basic ~~github~~ blue background `#0d1116` with green accent `#a5cc7a`
+> [!NOTE]
+> i clearly have no experience in neither making a theme nor using github, expect some parts to be broken
+
+## installation
+settings > revenge : theme > + button > paste link
+```
+remind me to put github link 😋
+```
