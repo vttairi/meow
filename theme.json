@@ -12,15 +12,15 @@
         "BACKGROUND_PRIMARY": ["#23272e"],
         "CARD_PRIMARY_BG": ["#21252c"],
         "CARD_SECONDARY_BG": ["#21252c"],
-        "BACKGROUND_SECONDARY_ALT": ["#16191d"],
         "PANEL_BG": ["#16191d"],
         "INPUT_BACKGROUND": ["#16191d"],
         "BG_BASE_SECONDARY": ["#16191d"],
         "INTERACTIVE_MUTED": ["#16191d"],
-        "TEXT_LINK": ["#97AE67"],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#63734A"],
+        "BACKGROUND_SECONDARY_ALT": ["#0b0c0f"],
+        "TEXT_LINK": ["#7D9058"],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#97AE67"],
         "THREAD_CHANNEL_SPINE": ["#49553B"],
-        "REDESIGN_BUTTON_SECONDARY_BORDER": ["#49553B"]
+        "REDESIGN_BUTTON_SECONDARY_BORDER": ["#7D9058"]
     },
     "rawColors": {
         "BLACK_500": "#16191d",
