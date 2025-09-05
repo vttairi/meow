@@ -24,7 +24,7 @@
         "REDESIGN_CHAT_INPUT_BACKGROUND": ["#16181d"],
         "DIVIDER_SUBTLE": ["#0b0c0f"],
         "INPUT_BACKGROUND": ["#0b0c0f"],
-        "BACKGROUND_SECONDARY": ["#0b0c0f"],
+        "BACKGROUND_SECONDARY_ALT": ["#0b0c0f"],
         "THREAD_CHANNEL_SPINE": ["#2F372D"],
         "BACKGROUND_ACCENT": ["#2F372D"],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": ["#63734A"],
