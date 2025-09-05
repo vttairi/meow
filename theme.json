@@ -33,8 +33,8 @@
         "TEXT_LINK": ["#97AE67"],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#97AE67"],
         "BUTTON_OUTLINE_DANGER_BORDER": ["#b52d3f"],
-        "TEXT_DANGER": ["#b52d3f"],
-        "STATUS_DND": ["#842A39"]
+        "TEXT_DANGER": ["#8D2837"],
+        "STATUS_DND": ["#b52d3f"]
     },
     "rawColors": {
         "BLACK_500": "#0b0c0f",
@@ -49,7 +49,8 @@
         "PLUM_22": "#0b0c0f",
         "PLUM_18": "#2c313a",
         "PRIMARY_300": "#97AE67",
-        "RED_430": "#842A39",
-        "RED_460": "#b52d3f"
+        "RED_400": "#b52d3f",
+        "RED_430": "#b52d3f",
+        "RED_460": "#8D2837"
     }
 }
