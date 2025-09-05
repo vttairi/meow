@@ -20,6 +20,7 @@
         "INTERACTIVE_MUTED": ["#0b0c0f"],
         "BG_BASE_SECONDARY": ["#0b0c0f"],
         "BACKGROUND_SECONDARY_ALT": ["#0b0c0f"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#0b0c0f"],
         "BG_MOD_STRONG": ["#0b0c0f"],
         "BORDER_STRONG": ["#0b0c0f"],
         "BORDER_SUBTLE": ["#0b0c0f"],
