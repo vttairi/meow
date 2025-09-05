@@ -6,7 +6,7 @@ basic ~~github~~ blue background with green accent
 > i clearly have no experience in neither making a theme nor using github, expect some parts to be broken
 
 ## installation
-settings > revenge : theme > + button > paste link
+settings > revenge: theme > + button > paste link
 ```
-remind me to put github link 😋
+https://raw.githubusercontent.com/vttairi/meow/refs/heads/main/themerework.json
 ```
