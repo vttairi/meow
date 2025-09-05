@@ -26,6 +26,7 @@
         "INPUT_BACKGROUND": ["#0b0c0f"],
         "BG_BASE_SECONDARY": ["#0b0c0f"],
         "BACKGROUND_SECONDARY_ALT": ["#0b0c0f"],
+        "BACKGROUND_PRIMARY": ["#0b0c0f"],
         "BACKGROUND_ACCENT": ["#63734A"],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": ["#63734A"],
         "THREAD_CHANNEL_SPINE": ["#63734A"],
