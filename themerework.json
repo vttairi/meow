@@ -16,7 +16,7 @@
         "BG_MOD_STRONG": ["#2c313a"],
         "BORDER_STRONG": ["#2c313a"],
         "BORDER_SUBTLE": ["#2c313a"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#1c1f25"]
+        "BG_BASE_PRIMARY": ["#1c1f25"]
         "CARD_PRIMARY_BG": ["#16181d"],
         "CARD_SECONDARY_BG": ["#16181d"],
         "EXPRESSION_PICKER_BG": ["#16181d"],
@@ -24,8 +24,7 @@
         "REDESIGN_CHAT_INPUT_BACKGROUND": ["#16181d"],
         "DIVIDER_SUBTLE": ["#0b0c0f"],
         "INPUT_BACKGROUND": ["#0b0c0f"],
-        "BG_BASE_SECONDARY": ["#0b0c0f"],
-        "BACKGROUND_SECONDARY_ALT": ["#0b0c0f"],
+        "BACKGROUND_SECONDARY": ["#0b0c0f"],
         "BACKGROUND_ACCENT": ["#63734A"],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": ["#63734A"],
         "THREAD_CHANNEL_SPINE": ["#63734A"],
