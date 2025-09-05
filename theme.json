@@ -15,7 +15,7 @@
         "BG_MOD_FAINT": ["#424957"],
         "BORDER_STRONG": ["#2c313a"],
         "BG_MOD_STRONG": ["#2c313a"],
-        "BACKGROUND_PRIMARY": ["#1C1F25"],
+        "BG_BASE_PRIMARY": ["#1C1F25"],
         "BACKGROUND_MODIFIER_ACCENT": ["#21242c"],
         "PANEL_BG": ["#16191d"],
         "CARD_PRIMARY_BG": ["#16191d"],
