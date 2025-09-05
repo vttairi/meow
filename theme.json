@@ -24,7 +24,7 @@
         "BG_SURFACE_OVERLAY_TMP": ["#16191d"],
         "REDESIGN_CHAT_INPUT_BACKGROUND": ["#16191d"],
         "BORDER_SUBTLE": ["#16191d"],
-        "INPUT_BACKGROUND": ["#0b0c0f"],
+        "INPUT_BACKGROUND": ["#16191d"],
         "BG_BASE_SECONDARY": ["#0b0c0f"],
         "BACKGROUND_SECONDARY_ALT": ["#0b0c0f"],
         "BACKGROUND_ACCENT": ["#364135"],
