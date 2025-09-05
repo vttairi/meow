@@ -25,7 +25,8 @@
         "DIVIDER_SUBTLE": ["#0b0c0f"],
         "INPUT_BACKGROUND": ["#0b0c0f"],
         "BACKGROUND_SECONDARY": ["#0b0c0f"],
-        "BACKGROUND_ACCENT": ["#63734A"],
+        "THREAD_CHANNEL_SPINE": ["#2F372D"],
+        "BACKGROUND_ACCENT": ["#2F372D"],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": ["#63734A"],
         "THREAD_CHANNEL_SPINE": ["#63734A"],
         "TEXT_LINK": ["#97AE67"],
@@ -34,6 +35,18 @@
         "STATUS_DND": ["#842A39"]
     },
     "rawColors": {
-        "BLACK_500": "#0b0c0f"
+        "BLACK_500": "#0b0c0f",
+        "BRAND_260": "#2F372D",
+        "BRAND_360": "#2F372D",
+        "BRAND_500": "#B1CC75",
+        "BRAND_560": "#B1CC75",
+        "GREEN_360": "#97AE67",
+        "GREEN_430": "#B1CC75",
+        "GREEN_460": "#97AE67",
+        "PLUM_20": "#0b0c0f",
+        "PLUM_22": "#0b0c0f",
+        "PRIMARY_300": "#97AE67",
+        "RED_430": "#842A39",
+        "RED_460": "#b52d3f"
     }
 }
