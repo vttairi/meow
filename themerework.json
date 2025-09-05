@@ -53,10 +53,5 @@
         "PRIMARY_300": "#97AE67",
         "RED_430": "#842A39",
         "RED_460": "#b52d3f"
-    },
-      "background": {
-    "blur": 0,
-    "url": "https://raw.githubusercontent.com/vttairi/meow/refs/heads/main/Untitled513_20250906035244.png",
-    "alpha": 1
-  }
+    }
 }
