@@ -11,6 +11,7 @@
     "semanticColors": {
         "BG_SURFACE_RAISED": ["#21242c"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#21242c"],
+        "BORDER_STRONG": ["#21242c"],
         "BACKGROUND_PRIMARY": ["#1C1F25"],
         "PANEL_BG": ["#16191d"],
         "CARD_PRIMARY_BG": ["#16191d"],
@@ -24,7 +25,6 @@
         "BACKGROUND_SECONDARY_ALT": ["#0b0c0f"],
         "BACKGROUND_MODIFIER_ACCENT": ["#0b0c0f"],
         "BG_MOD_STRONG": ["#0b0c0f"],
-        "BORDER_STRONG": ["#0b0c0f"],
         "BORDER_SUBTLE": ["#0b0c0f"],
         "ANDROID_RIPPLE": ["#364135"],
         "BG_BRAND": ["#9DCC60"],
