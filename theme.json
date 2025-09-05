@@ -1,0 +1,33 @@
+{
+  "name": "rainforest",
+  "description": "personal use theme made by vttairi; basic blue theme with green accents",
+  "authors": [
+    {
+      "name": "vttairi",
+      "id": "830734741266628658"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#15191e"],
+"BACKGROUND_SECONDARY_ALT": ["#0a0d0f"],
+"BACKGROUND_TERTIARY": ["#7D9058"],
+"BG_BACKDROP": ["#000000"],
+"BG_BASE_SECONDARY": ["#0a0d0f"],
+"BG_MOD_FAINT": ["#2a323c"],
+"BG_MOD_STRONG": ["#3f4b5a"],
+"BG_SURFACE_RAISED": ["#1f262d"],
+"BUTTON_OUTLINE_DANGER_BORDER": ["#B1CC75"],
+"CARD_PRIMARY_BG": ["#1f262d"],
+"CARD_SECONDARY_BG": ["#1f262d"],
+"DIVIDER_SUBTLE": ["#0a0d0f"],
+"EXPRESSION_PICKER": ["#0a0d0f"],
+"INPUT_BACKGROUND": ["#000000"],
+"INTERACTIVE_ACTIVE": ["#1f262d"],
+"INTERACTIVE_MUTED": ["#0a0d0f"],
+    "ANDROID_RIPPLE": ["#2F372D"]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#9E8376"
+  }
+}
