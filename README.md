@@ -8,5 +8,5 @@ basic ~~github~~ blue background with green accent
 ## installation
 settings > revenge: theme > + button > paste link
 ```
-https://raw.githubusercontent.com/vttairi/meow/refs/heads/main/themerework.json
+https://raw.githubusercontent.com/vttairi/meow/refs/heads/main/theme.json
 ```
