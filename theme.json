@@ -15,7 +15,6 @@
         "INTERACTIVE_MUTED": ["#2c313a"],
         "BG_MOD_STRONG": ["#2c313a"],
         "BORDER_STRONG": ["#2c313a"],
-        "BORDER_SUBTLE": ["#2c313a"],
         "BACKGROUND_PRIMARY": ["#1c1f25"],
         "BG_BASE_PRIMARY": ["#1c1f25"],
         "CARD_PRIMARY_BG": ["#16181d"],
