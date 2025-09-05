@@ -27,6 +27,7 @@
         "BG_BASE_SECONDARY": ["#0b0c0f"],
         "BACKGROUND_SECONDARY_ALT": ["#0b0c0f"],
         "BG_MOD_STRONG": ["#0b0c0f"],
+        "BACKGROUND_ACCENT": ["#364135"],
         "ANDROID_RIPPLE": ["#364135"],
         "BG_BRAND": ["#9DCC60"],
         "BUTTON_OUTLINE_DANGER_BORDER": ["#d14351"],
