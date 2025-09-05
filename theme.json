@@ -8,7 +8,7 @@
         }
     ],
     "spec": 2,
-    +  "plus": {
++  "plus": {
 +    "version": 0
 +  },
     "semanticColors": {
