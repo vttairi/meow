@@ -13,7 +13,6 @@
         "BG_SURFACE_RAISED": ["#2c313a"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#2c313a"],
         "BORDER_STRONG": ["#2c313a"],
-        "BG_MOD_FAINT": ["#2c313a"],
         "BG_MOD_STRONG": ["#2c313a"],
         "BACKGROUND_PRIMARY": ["#1C1F25"],
         "BACKGROUND_MODIFIER_ACCENT": ["#16191d"],
