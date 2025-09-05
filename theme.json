@@ -12,6 +12,7 @@
         "BG_SURFACE_RAISED": ["#21242c"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#21242c"],
         "BORDER_STRONG": ["#21242c"],
+        "INTERACTIVE_MUTED": ["#21242c"],
         "BACKGROUND_PRIMARY": ["#1C1F25"],
         "BACKGROUND_MODIFIER_ACCENT": ["#16191d"],
         "PANEL_BG": ["#16191d"],
