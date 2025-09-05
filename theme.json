@@ -10,10 +10,10 @@
     "spec": 2,
     "semanticColors": {
         "BACKGROUND_PRIMARY": ["#23272e"],
-        "PANEL_BG": ["#21252c"],
-        "BACKGROUND_SECONDARY_ALT": ["#21252c"],
         "CARD_PRIMARY_BG": ["#21252c"],
         "CARD_SECONDARY_BG": ["#21252c"],
+        "BACKGROUND_SECONDARY_ALT": ["#16191d"],
+        "PANEL_BG": ["#16191d"],
         "INPUT_BACKGROUND": ["#16191d"],
         "BG_BASE_SECONDARY": ["#16191d"],
         "INTERACTIVE_MUTED": ["#16191d"],
