@@ -9,9 +9,9 @@
     ],
     "spec": 2,
     "semanticColors": {
-        "BG_SURFACE_RAISED": ["#2c313a"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#2c313a"],
-        "BACKGROUND_PRIMARY": ["#21252c"],
+        "BG_SURFACE_RAISED": ["#21242c"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#21242c"],
+        "BACKGROUND_PRIMARY": ["#1C1F25"],
         "PANEL_BG": ["#16191d"],
         "CARD_PRIMARY_BG": ["#16191d"],
         "CARD_SECONDARY_BG": ["#16191d"],
