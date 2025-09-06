@@ -32,7 +32,7 @@
         "TEXT_LINK": ["#97AE67"],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#97AE67"],
         "BUTTON_OUTLINE_DANGER_BORDER": ["#b52d3f"],
-        "TEXT_DANGER": ["#8D2837"],
+        "TEXT_DANGER": ["#9C2C3C"],
         "STATUS_DND": ["#b52d3f"]
     },
     "rawColors": {
@@ -49,7 +49,7 @@
         "PRIMARY_300": "#97AE67",
         "RED_400": "#b52d3f",
         "RED_430": "#b52d3f",
-        "RED_460": "#8D2837"
+        "RED_460": "#9C2C3C"
     },
     "plus": {
         "version": 0,
