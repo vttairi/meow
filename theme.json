@@ -21,7 +21,7 @@
         "CARD_SECONDARY_BG": ["#16181d"],
         "EXPRESSION_PICKER_BG": ["#16181d"],
         "PANEL_BG": ["#16181d"],
-        "REDESIGN_CHAT_INPUT_BACKGROUND": ["#16181d"],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": ["#7D9058"],
         "DIVIDER_SUBTLE": ["#0b0c0f"],
         "INPUT_BACKGROUND": ["#0b0c0f"],
         "BACKGROUND_SECONDARY_ALT": ["#0b0c0f"],
@@ -37,6 +37,7 @@
     },
     "rawColors": {
         "BLACK_500": "#0b0c0f",
+        "BLUE_345": "#97AE67",
         "BRAND_260": "#2F372D",
         "BRAND_360": "#97AE67",
         "BRAND_500": "#B1CC75",
