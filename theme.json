@@ -11,8 +11,9 @@
     "semanticColors": {
         "BG_SURFACE_RAISED": ["#1c1f25"],
         "BACKGROUND_PRIMARY": ["#1c1f25"],
-        "BG_BASE_PRIMARY": ["#1c1f25" ],
+        "BG_BASE_PRIMARY": ["#1c1f25"],
         "BORDER_STRONG": ["#4d5566"],
+        "TEXT_SECONDARY": ["#4d5566"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#2c313a"],
         "BG_SURFACE_OVERLAY_TMP": ["#2c313a"],
         "INTERACTIVE_MUTED": ["#2c313a"],
