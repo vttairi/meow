@@ -33,7 +33,7 @@
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#97AE67"],
         "BUTTON_OUTLINE_DANGER_BORDER": ["#b52d3f"],
         "TEXT_DANGER": ["#9C2C3C"],
-        "STATUS_DND": ["#b52d3f"]
+        "STATUS_DND": ["#b52d3f"],
         "BACKGROUND_PRIMARY": ["#1c1f25"],
         "BG_BASE_PRIMARY": ["#1c1f25"],
     },
