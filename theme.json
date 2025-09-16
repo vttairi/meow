@@ -11,6 +11,8 @@
     "semanticColors": {
         "BACKGROUND_MODIFIER_ACTIVE": ["#2c313a"],
         "BG_SURFACE_RAISED": ["#1c1f25"],
+        "BACKGROUND_PRIMARY": ["#1c1f25"],
+        "BG_BASE_PRIMARY": ["#1c1f25" ],
         "BG_SURFACE_OVERLAY_TMP": ["#2c313a"],
         "INTERACTIVE_MUTED": ["#2c313a"],
         "BG_MOD_STRONG": ["#2c313a"],
@@ -33,9 +35,7 @@
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#97AE67"],
         "BUTTON_OUTLINE_DANGER_BORDER": ["#b52d3f"],
         "TEXT_DANGER": ["#9C2C3C"],
-        "STATUS_DND": ["#b52d3f"],
-        "BACKGROUND_PRIMARY": ["#1c1f25"],
-        "BG_BASE_PRIMARY": ["#1c1f25"]
+        "STATUS_DND": ["#b52d3f"]
     },
     "rawColors": {
         "BLACK_500": "#0b0c0f",
