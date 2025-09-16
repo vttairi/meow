@@ -13,7 +13,6 @@
         "BACKGROUND_PRIMARY": ["#1c1f25"],
         "BG_BASE_PRIMARY": ["#1c1f25"],
         "BORDER_STRONG": ["#4d5566"],
-        "TEXT_SECONDARY": ["#4d5566"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#2c313a"],
         "BG_SURFACE_OVERLAY_TMP": ["#2c313a"],
         "INTERACTIVE_MUTED": ["#2c313a"],
@@ -38,6 +37,7 @@
         "STATUS_DND": ["#b52d3f"]
     },
     "rawColors": {
+        "PRIMARY_500": "#4d5566",
         "BLACK_500": "#0b0c0f",
         "BRAND_260": "#F2F7E8",
         "BRAND_360": "#97AE67",
