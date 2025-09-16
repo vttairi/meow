@@ -35,7 +35,7 @@
         "TEXT_DANGER": ["#9C2C3C"],
         "STATUS_DND": ["#b52d3f"],
         "BACKGROUND_PRIMARY": ["#1c1f25"],
-        "BG_BASE_PRIMARY": ["#1c1f25"],
+        "BG_BASE_PRIMARY": ["#1c1f25"]
     },
     "rawColors": {
         "BLACK_500": "#0b0c0f",
