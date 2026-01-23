@@ -24,7 +24,7 @@
         "REDESIGN_CHAT_INPUT_BACKGROUND": ["#16181d"],
         "DIVIDER_SUBTLE": ["#0b0c0f"],
         "BACKGROUND_SECONDARY_ALT": ["#0b0c0f"],
-        "INPUT_BACKGROUND": ["#000000"],
+        "INPUT_BACKGROUND_DEFAULT": ["#0b0c0f"],
         "ANDROID_RIPPLE": ["#2F372D"],
         "THREAD_CHANNEL_SPINE": ["#63734A"],
         "BACKGROUND_ACCENT": ["#63734A"],
