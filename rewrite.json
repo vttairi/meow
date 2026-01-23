@@ -1,0 +1,37 @@
+{
+  "name": "rainforest - test",
+  "description": "slightly bluer background with a green accent",
+  "authors": [
+    {
+      "name": "vttairi"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_MOD_STRONG": [
+      "#424957"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#2c313a"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#2c313a"
+    ],
+    "BACKGROUND_BASE_LOW": [
+      "#1c1f25"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "#16181d"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#0b0c0f"
+    ],
+    "BACKGROUND_BRAND": [
+      "#97ae67"
+    ],
+  },
+  "rawColors": {
+    "RAW_Color_1": "#00ff00",
+    "RAW_Color_2": "#00ff00"
+  },
+  "spec": 2
+}
