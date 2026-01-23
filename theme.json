@@ -10,7 +10,7 @@
     "spec": 2,
     "semanticColors": {
         "BG_SURFACE_RAISED": ["#1c1f25"],
-        "BACKGROUND_PRIMARY": ["#1c1f25"],
+        "BACKGROUND_BASE_LOW": ["#1c1f25"],
         "BG_BASE_PRIMARY": ["#1c1f25"],
         "BORDER_STRONG": ["#4d5566"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#2c313a"],
