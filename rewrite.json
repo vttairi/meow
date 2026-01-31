@@ -34,9 +34,9 @@
         "REDESIGN_CHAT_INPUT_BACKGROUND": ["#16181d"],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": ["#1c1f25"],
         "REDESIGN_INPUT_CONTROL_SELECTED": ["#A6C466"],
-        "TEXT_FEEDBACK_CRITICAL": ["#red danger color"],
+        "TEXT_FEEDBACK_CRITICAL": ["#b52d3f"],
         "TEXT_LINK": ["#A6C466"],
-        "TEXT_STATUS_DND": ["#red danger color"],
+        "TEXT_STATUS_DND": ["#b52d3f"],
         "THREAD_CHANNEL_SPINE": ["#1c1f25"],
         "STATUS_DND": ["#b52d3f"]
     },
@@ -60,9 +60,9 @@
         "PRIMARY_660": "#16181d",
         "PRIMARY_700": "#16181d",
         "PRIMARY_800": "#8CA558",
-        "RED_400": "#red",
-        "RED_430": "#red",
-        "RED_460": "#darker red"
+        "RED_400": "#b52d3f",
+        "RED_430": "#b52d3f",
+        "RED_460": "#992837"
     },
     "plus": {
         "version": 0,
