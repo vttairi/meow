@@ -11,7 +11,6 @@
     "semanticColors": {
         "BG_SURFACE_RAISED": ["#1c1f25"],
         "BACKGROUND_BASE_LOW": ["#1c1f25"],
-        "BG_BASE_PRIMARY": ["#1c1f25"],
         "BORDER_STRONG": ["#4d5566"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#2c313a"],
         "BG_SURFACE_OVERLAY_TMP": ["#2c313a"],
@@ -49,8 +48,8 @@
         "PLUM_22": "#0b0c0f",
         "PLUM_18": "#2c313a",
         "PRIMARY_300": "#97AE67",
-        "PRIMARY_700": "#16181d",
-        "PRIMARY_100": "#16181d",
+        "PRIMARY_700": "#0b0c0f",
+        "PRIMARY_100": "#0b0c0f",
         "RED_400": "#b52d3f",
         "RED_430": "#b52d3f",
         "RED_460": "#9C2C3C"
