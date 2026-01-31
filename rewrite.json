@@ -1,46 +1,45 @@
 {
-  "name": "rainforest - test",
-  "description": "slightly bluer background with a green accent",
-  "authors": [
-    {
-      "name": "vttairi"
+    "name": "rainforest - test",
+    "description": "REWRITING, EXPECT INCONSISTENCIES - personal use theme made by vttairi",
+    "authors": [
+        {
+            "name": "vttairi",
+            "id": "830734741266628658"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+      "BACKGROUND_BASE_LOW": ["#1c1f25"],
+      "BACKGROUND_BASE_LOWER": ["#0b0c0f"],
+      "BACKGROUND_BASE_LOWEST": ["#0b0c0f"],
+      "BACKGROUND_BRAND": ["#insert green color here"],
+      "BACKGROUND_MOD_MUTED": ["#16181d"],
+      "BACKGROUND_MOD_STRONG": ["#21242c"],
+      "BACKGROUND_SURFACE_HIGH": ["#16181d"],
+      "BG_SURFACE_OVERLAY_TMP": ["#21242c"],
+      "BG_SURFACE_RAISED": ["#16181d"],
+      "STATUS_DND": ["#b52d3f"]
+    },
+    "rawColors": {
+        "BLACK_500": "#0b0c0f",
+        "BRAND_260": "#F2F7E8",
+        "BRAND_360": "#97AE67",
+        "BRAND_500": "#B1CC75",
+        "BRAND_560": "#97AE67",
+        "GREEN_430": "#B1CC75",
+        "GREEN_460": "#97AE67",
+        "PLUM_20": "#0b0c0f",
+        "PLUM_22": "#0b0c0f",
+        "PLUM_18": "#2c313a",
+        "PRIMARY_300": "#97AE67",
+        "PRIMARY_700": "#0b0c0f",
+        "PRIMARY_100": "#0b0c0f",
+        "RED_400": "#b52d3f",
+        "RED_430": "#b52d3f",
+        "RED_460": "#9C2C3C"
+    },
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#97AE67"
     }
-  ],
-  "semanticColors": {
-    "BACKGROUND_MOD_STRONG": [
-      "#424957"
-    ],
-    "BG_SURFACE_RAISED": [
-      "#2c313a"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#2c313a"
-    ],
-    "BACKGROUND_BASE_LOW": [
-      "#1c1f25"
-    ],
-    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#16181d"
-    ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#16181d"
-    ],
-    "BACKGROUND_BASE_LOWER": [
-      "#16181d"
-    ],
-    "PANEL_BG": [
-      "#16181d"
-    ],
-    "BACKGROUND_BASE_LOWEST": [
-      "#0b0c0f"
-    ],
-    "BACKGROUND_BRAND": [
-      "#97ae67"
-    ]
-  },
-  "rawColors": {
-    "RAW_Color_1": "#00ff00",
-    "RAW_Color_2": "#00ff00"
-  },
-  "spec": 2
 }
