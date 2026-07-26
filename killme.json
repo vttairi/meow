@@ -161,7 +161,7 @@
     },
     "plus": {
         "version": "0",
-        "iconpack": "solar-duotone"
+        "iconpack": "solar-duotone",
         "mentionLineColor": "#a6c466"
     },
     "spec": 2
