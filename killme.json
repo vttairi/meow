@@ -9,7 +9,7 @@
         {
             "name": "vttairi",
             "id": "830734741266628658"
-        },
+        }
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
@@ -149,7 +149,7 @@
         "RED_400": "#a6c466",
         "WHITE_500": "#e0deff",
         "GREEN_360": "#605d91",
-        "PLUM_23": "#212121",     
+        "PLUM_23": "#212121",
         "PLUM_20": "#111111",
         "PLUM_18": "#111111",
         "PLUM_17": "#141414",
@@ -158,11 +158,10 @@
         "PLUM_10": "#c4c4c4",
         "PLUM_3": "#e5e5e5",
         "PLUM_9": "#e5e5e5"
- },
-  "plus": {
-    "version": "0",
-    "iconpack": "solar-duotone"
-},
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "solar-duotone"
+    },
     "spec": 2
-
 }
